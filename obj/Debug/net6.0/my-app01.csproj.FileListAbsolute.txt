@@ -1,0 +1,15 @@
+E:\Great Learning\my-app01\bin\Debug\net6.0\my-app01.exe
+E:\Great Learning\my-app01\bin\Debug\net6.0\my-app01.deps.json
+E:\Great Learning\my-app01\bin\Debug\net6.0\my-app01.runtimeconfig.json
+E:\Great Learning\my-app01\bin\Debug\net6.0\my-app01.dll
+E:\Great Learning\my-app01\bin\Debug\net6.0\my-app01.pdb
+E:\Great Learning\my-app01\obj\Debug\net6.0\my-app01.csproj.AssemblyReference.cache
+E:\Great Learning\my-app01\obj\Debug\net6.0\my-app01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Great Learning\my-app01\obj\Debug\net6.0\my-app01.AssemblyInfoInputs.cache
+E:\Great Learning\my-app01\obj\Debug\net6.0\my-app01.AssemblyInfo.cs
+E:\Great Learning\my-app01\obj\Debug\net6.0\my-app01.csproj.CoreCompileInputs.cache
+E:\Great Learning\my-app01\obj\Debug\net6.0\my-app01.dll
+E:\Great Learning\my-app01\obj\Debug\net6.0\refint\my-app01.dll
+E:\Great Learning\my-app01\obj\Debug\net6.0\my-app01.pdb
+E:\Great Learning\my-app01\obj\Debug\net6.0\my-app01.genruntimeconfig.cache
+E:\Great Learning\my-app01\obj\Debug\net6.0\ref\my-app01.dll
